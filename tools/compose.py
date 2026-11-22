@@ -89,15 +89,20 @@ def text_card(img, title, body, hook=False, accent=SAFFRON, y=95):
     return img
 
 
+def bg_ok(img):
+    r, g, b = img.getpixel((90, 50))[:3]
+    return not (r > 230 and 130 < g < 180 and b < 90)
+
+
 def chrome(img, series, idx, total, handle="@naya.nagrik"):
     d = ImageDraw.Draw(img, "RGBA")
     fs = font(F_SMALL, 28)
-    pill(d, (40, 30), series, fs, SAFFRON, NAVY)
-    pill(d, (W - 40, H - 34), handle, fs, NAVY + (225,), OFFWHITE, anchor="rb")
-    pill(d, (40, H - 34 - 54), f"{idx}/{total}", fs, OFFWHITE + (225,), NAVY)
+    pill(d, (70, 34), series, fs, SAFFRON if bg_ok(img) else OFFWHITE, NAVY)
+    pill(d, (W - 70, H - 40), handle, fs, NAVY + (225,), OFFWHITE, anchor="rb")
+    pill(d, (70, H - 40 - 54), f"{idx}/{total}", fs, OFFWHITE + (225,), NAVY)
     if idx < total:
         # swipe hint arrow
-        d.text((W - 40 - 60, H // 2 - 40), "›", font=font(F_HOOK, 90), fill=OFFWHITE + (200,))
+        d.text((W - 70 - 50, H // 2 - 40), "›", font=font(F_HOOK, 90), fill=OFFWHITE + (200,))
     return img
 
 
