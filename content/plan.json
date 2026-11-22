@@ -1,274 +1,274 @@
 [
-  {
-    "n": 1,
-    "pillar": "Swachh",
-    "hook": "Chips khatam, packet kahan?",
-    "habit": "2-second rule: wrapper jeb mein, bin tak",
-    "status": "published",
-    "buffer_post_id": "6b0298abcc364169c136de8b",
-    "instagram_url": "https://www.instagram.com/p/DgCQ2l5kf9x/"
-  },
-  {
-    "n": 2,
-    "pillar": "Queue",
-    "hook": "Line mein lagna loser wali baat hai?",
-    "habit": "Peeche dekho, phir khade ho",
-    "status": "scheduled",
-    "buffer_post_id": "6b029a7ed864a01105a61d1c",
-    "instagram_url": null,
-    "scheduled_for": "2026-11-22T19:00:00+05:30"
-  },
-  {
-    "n": 3,
-    "pillar": "Road",
-    "hook": "Signal red, road khali. Ruka ya nikla?",
-    "habit": "Red matlab red, 3 baje raat ko bhi",
-    "status": "scheduled",
-    "buffer_post_id": "6b02cd0a846b0ee9077d0257",
-    "instagram_url": null,
-    "scheduled_for": "2026-11-23T19:00:00+05:30"
-  },
-  {
-    "n": 4,
-    "pillar": "Abroad",
-    "hook": "Tum Paris mein ho. Tum India ho.",
-    "habit": "Abroad har harkat = desh ka review",
-    "status": "todo",
-    "buffer_post_id": null,
-    "instagram_url": null
-  },
-  {
-    "n": 5,
-    "pillar": "Road",
-    "hook": "Ambulance peeche hai. Tum kya karoge?",
-    "habit": "Left jao, ruk jao, rasta do",
-    "status": "todo",
-    "buffer_post_id": null,
-    "instagram_url": null
-  },
-  {
-    "n": 6,
-    "pillar": "Swachh",
-    "hook": "Paan ki pichkari ka bill kaun bharta hai?",
-    "habit": "Thookna band, cleaning ka paisa tumhara tax",
-    "status": "todo",
-    "buffer_post_id": null,
-    "instagram_url": null
-  },
-  {
-    "n": 7,
-    "pillar": "Public Property",
-    "hook": "Taj pe naam likh ke kya mila?",
-    "habit": "Monument pe yaad lo, nishaan nahi",
-    "status": "todo",
-    "buffer_post_id": null,
-    "instagram_url": null
-  },
-  {
-    "n": 8,
-    "pillar": "Queue",
-    "hook": "Metro ka darwaza khula. Andar ya bahar pehle?",
-    "habit": "Pehle utarne do, phir chadho",
-    "status": "todo",
-    "buffer_post_id": null,
-    "instagram_url": null
-  },
-  {
-    "n": 9,
-    "pillar": "Tameez",
-    "hook": "Delivery bhaiya ko thank you bola?",
-    "habit": "Har kaam karne wale ko respect",
-    "status": "todo",
-    "buffer_post_id": null,
-    "instagram_url": null
-  },
-  {
-    "n": 10,
-    "pillar": "Road",
-    "hook": "Horn bajane se signal green hota hai?",
-    "habit": "Horn sirf khatre ke liye",
-    "status": "todo",
-    "buffer_post_id": null,
-    "instagram_url": null
-  },
-  {
-    "n": 11,
-    "pillar": "Swachh",
-    "hook": "Japan ke fans stadium kyun saaf karte hain?",
-    "habit": "Jo gandagi tumhari, safai tumhari",
-    "status": "todo",
-    "buffer_post_id": null,
-    "instagram_url": null
-  },
-  {
-    "n": 12,
-    "pillar": "Desh Badlo",
-    "hook": "Ek complaint ne pura road bana diya",
-    "habit": "Pothole dikha? Municipal app pe report",
-    "status": "todo",
-    "buffer_post_id": null,
-    "instagram_url": null
-  },
-  {
-    "n": 13,
-    "pillar": "Queue",
-    "hook": "Escalator pe dono taraf khade log",
-    "habit": "Khade ho toh left, chalo toh right",
-    "status": "todo",
-    "buffer_post_id": null,
-    "instagram_url": null
-  },
-  {
-    "n": 14,
-    "pillar": "Online",
-    "hook": "Comment section bhi desh ki image hai",
-    "habit": "Troll mat karo, tark do",
-    "status": "todo",
-    "buffer_post_id": null,
-    "instagram_url": null
-  },
-  {
-    "n": 15,
-    "pillar": "Road",
-    "hook": "Zebra crossing kiske liye hai?",
-    "habit": "Pedestrian ko pehla haq",
-    "status": "todo",
-    "buffer_post_id": null,
-    "instagram_url": null
-  },
-  {
-    "n": 16,
-    "pillar": "Swachh",
-    "hook": "Ghar saaf, gali gandi. Kyun?",
-    "habit": "Gali bhi ghar ka extension hai",
-    "status": "todo",
-    "buffer_post_id": null,
-    "instagram_url": null
-  },
-  {
-    "n": 17,
-    "pillar": "Public Space",
-    "hook": "Train mein speaker pe reel",
-    "habit": "Earphones = public tameez",
-    "status": "todo",
-    "buffer_post_id": null,
-    "instagram_url": null
-  },
-  {
-    "n": 18,
-    "pillar": "Abroad",
-    "hook": "Airport pe line kaise lagti hai?",
-    "habit": "Immigration, security, boarding — sab mein queue",
-    "status": "todo",
-    "buffer_post_id": null,
-    "instagram_url": null
-  },
-  {
-    "n": 19,
-    "pillar": "Swachh",
-    "hook": "Gila-sukha alag kyun?",
-    "habit": "Do dustbin, ek aadat",
-    "status": "todo",
-    "buffer_post_id": null,
-    "instagram_url": null
-  },
-  {
-    "n": 20,
-    "pillar": "Road",
-    "hook": "Helmet sirf challan se bachne ke liye?",
-    "habit": "Helmet sar ke liye, police ke liye nahi",
-    "status": "todo",
-    "buffer_post_id": null,
-    "instagram_url": null
-  },
-  {
-    "n": 21,
-    "pillar": "Tameez",
-    "hook": "Ladki ko ghoorna normal hai?",
-    "habit": "Nazar ki bhi tameez hoti hai",
-    "status": "todo",
-    "buffer_post_id": null,
-    "instagram_url": null
-  },
-  {
-    "n": 22,
-    "pillar": "Desh Badlo",
-    "hook": "Paani ka nal khula chhod ke brush?",
-    "habit": "Tap band, har din litre bachao",
-    "status": "todo",
-    "buffer_post_id": null,
-    "instagram_url": null
-  },
-  {
-    "n": 23,
-    "pillar": "Public Property",
-    "hook": "Park ki bench todi kisne?",
-    "habit": "Public cheez = tumhari cheez",
-    "status": "todo",
-    "buffer_post_id": null,
-    "instagram_url": null
-  },
-  {
-    "n": 24,
-    "pillar": "Queue",
-    "hook": "Seat pe bag, saamne buzurg khade",
-    "habit": "Seat log ke liye, bag ke liye nahi",
-    "status": "todo",
-    "buffer_post_id": null,
-    "instagram_url": null
-  },
-  {
-    "n": 25,
-    "pillar": "Road",
-    "hook": "Wrong side se 30 second bachaye",
-    "habit": "Wrong side = sabse common accident cause",
-    "status": "todo",
-    "buffer_post_id": null,
-    "instagram_url": null
-  },
-  {
-    "n": 26,
-    "pillar": "Swachh",
-    "hook": "Mawlynnong: Asia ka sabse saaf gaon kaise bana?",
-    "habit": "Community ownership",
-    "status": "todo",
-    "buffer_post_id": null,
-    "instagram_url": null
-  },
-  {
-    "n": 27,
-    "pillar": "Online",
-    "hook": "Videsh ki video pe India ki burai",
-    "habit": "Desh ki galti sudharo, uska mazaak nahi",
-    "status": "todo",
-    "buffer_post_id": null,
-    "instagram_url": null
-  },
-  {
-    "n": 28,
-    "pillar": "Abroad",
-    "hook": "Hotel room chhodte waqt kaisa dikhta hai?",
-    "habit": "Mehmaan bano, toofan nahi",
-    "status": "todo",
-    "buffer_post_id": null,
-    "instagram_url": null
-  },
-  {
-    "n": 29,
-    "pillar": "Desh Badlo",
-    "hook": "Indore ne kaise kar dikhaya?",
-    "habit": "System + aadat = saaf shehar",
-    "status": "todo",
-    "buffer_post_id": null,
-    "instagram_url": null
-  },
-  {
-    "n": 30,
-    "pillar": "Tameez",
-    "hook": "Sorry bolna weakness hai?",
-    "habit": "Sorry, please, thank you = strength",
-    "status": "todo",
-    "buffer_post_id": null,
-    "instagram_url": null
-  }
+ {
+  "n": 1,
+  "pillar": "Swachh",
+  "hook": "Chips khatam, packet kahan?",
+  "habit": "2-second rule: wrapper jeb mein, bin tak",
+  "status": "published",
+  "buffer_post_id": "6b0298abcc364169c136de8b",
+  "instagram_url": "https://www.instagram.com/p/DgCQ2l5kf9x/"
+ },
+ {
+  "n": 2,
+  "pillar": "Queue",
+  "hook": "Line mein lagna loser wali baat hai?",
+  "habit": "Peeche dekho, phir khade ho",
+  "status": "scheduled",
+  "buffer_post_id": "6b029a7ed864a01105a61d1c",
+  "instagram_url": null,
+  "scheduled_for": "2026-11-22T19:00:00+05:30"
+ },
+ {
+  "n": 3,
+  "pillar": "Road",
+  "hook": "Signal red, road khali. Ruka ya nikla?",
+  "habit": "Red matlab red, 3 baje raat ko bhi",
+  "status": "scheduled",
+  "buffer_post_id": "6b02cd0a846b0ee9077d0257",
+  "instagram_url": null,
+  "scheduled_for": "2026-11-23T19:00:00+05:30"
+ },
+ {
+  "n": 4,
+  "pillar": "Abroad",
+  "hook": "Tum Paris mein ho. Tum India ho.",
+  "habit": "Abroad har harkat = desh ka review",
+  "status": "todo",
+  "buffer_post_id": null,
+  "instagram_url": null
+ },
+ {
+  "n": 5,
+  "pillar": "Road",
+  "hook": "Ambulance peeche hai. Tum kya karoge?",
+  "habit": "Left jao, ruk jao, rasta do",
+  "status": "todo",
+  "buffer_post_id": null,
+  "instagram_url": null
+ },
+ {
+  "n": 6,
+  "pillar": "Swachh",
+  "hook": "Paan ki pichkari ka bill kaun bharta hai?",
+  "habit": "Thookna band, cleaning ka paisa tumhara tax",
+  "status": "todo",
+  "buffer_post_id": null,
+  "instagram_url": null
+ },
+ {
+  "n": 7,
+  "pillar": "Public Property",
+  "hook": "Taj pe naam likh ke kya mila?",
+  "habit": "Monument pe yaad lo, nishaan nahi",
+  "status": "todo",
+  "buffer_post_id": null,
+  "instagram_url": null
+ },
+ {
+  "n": 8,
+  "pillar": "Queue",
+  "hook": "Metro ka darwaza khula. Andar ya bahar pehle?",
+  "habit": "Pehle utarne do, phir chadho",
+  "status": "todo",
+  "buffer_post_id": null,
+  "instagram_url": null
+ },
+ {
+  "n": 9,
+  "pillar": "Tameez",
+  "hook": "Delivery bhaiya ko thank you bola?",
+  "habit": "Har kaam karne wale ko respect",
+  "status": "todo",
+  "buffer_post_id": null,
+  "instagram_url": null
+ },
+ {
+  "n": 10,
+  "pillar": "Road",
+  "hook": "Horn bajane se signal green hota hai?",
+  "habit": "Horn sirf khatre ke liye",
+  "status": "todo",
+  "buffer_post_id": null,
+  "instagram_url": null
+ },
+ {
+  "n": 11,
+  "pillar": "Swachh",
+  "hook": "Japan ke fans stadium kyun saaf karte hain?",
+  "habit": "Jo gandagi tumhari, safai tumhari",
+  "status": "todo",
+  "buffer_post_id": null,
+  "instagram_url": null
+ },
+ {
+  "n": 12,
+  "pillar": "Desh Badlo",
+  "hook": "Ek complaint ne pura road bana diya",
+  "habit": "Pothole dikha? Municipal app pe report",
+  "status": "todo",
+  "buffer_post_id": null,
+  "instagram_url": null
+ },
+ {
+  "n": 13,
+  "pillar": "Queue",
+  "hook": "Escalator pe dono taraf khade log",
+  "habit": "Khade ho toh left, chalo toh right",
+  "status": "todo",
+  "buffer_post_id": null,
+  "instagram_url": null
+ },
+ {
+  "n": 14,
+  "pillar": "Online",
+  "hook": "Comment section bhi desh ki image hai",
+  "habit": "Troll mat karo, tark do",
+  "status": "todo",
+  "buffer_post_id": null,
+  "instagram_url": null
+ },
+ {
+  "n": 15,
+  "pillar": "Road",
+  "hook": "Zebra crossing kiske liye hai?",
+  "habit": "Pedestrian ko pehla haq",
+  "status": "todo",
+  "buffer_post_id": null,
+  "instagram_url": null
+ },
+ {
+  "n": 16,
+  "pillar": "Swachh",
+  "hook": "Ghar saaf, gali gandi. Kyun?",
+  "habit": "Gali bhi ghar ka extension hai",
+  "status": "todo",
+  "buffer_post_id": null,
+  "instagram_url": null
+ },
+ {
+  "n": 17,
+  "pillar": "Public Space",
+  "hook": "Train mein speaker pe reel",
+  "habit": "Earphones = public tameez",
+  "status": "todo",
+  "buffer_post_id": null,
+  "instagram_url": null
+ },
+ {
+  "n": 18,
+  "pillar": "Abroad",
+  "hook": "Airport pe line kaise lagti hai?",
+  "habit": "Immigration, security, boarding — sab mein queue",
+  "status": "todo",
+  "buffer_post_id": null,
+  "instagram_url": null
+ },
+ {
+  "n": 19,
+  "pillar": "Swachh",
+  "hook": "Gila-sukha alag kyun?",
+  "habit": "Do dustbin, ek aadat",
+  "status": "todo",
+  "buffer_post_id": null,
+  "instagram_url": null
+ },
+ {
+  "n": 20,
+  "pillar": "Road",
+  "hook": "Helmet sirf challan se bachne ke liye?",
+  "habit": "Helmet sar ke liye, police ke liye nahi",
+  "status": "todo",
+  "buffer_post_id": null,
+  "instagram_url": null
+ },
+ {
+  "n": 21,
+  "pillar": "Tameez",
+  "hook": "Ladki ko ghoorna normal hai?",
+  "habit": "Nazar ki bhi tameez hoti hai",
+  "status": "todo",
+  "buffer_post_id": null,
+  "instagram_url": null
+ },
+ {
+  "n": 22,
+  "pillar": "Desh Badlo",
+  "hook": "Paani ka nal khula chhod ke brush?",
+  "habit": "Tap band, har din litre bachao",
+  "status": "todo",
+  "buffer_post_id": null,
+  "instagram_url": null
+ },
+ {
+  "n": 23,
+  "pillar": "Public Property",
+  "hook": "Park ki bench todi kisne?",
+  "habit": "Public cheez = tumhari cheez",
+  "status": "todo",
+  "buffer_post_id": null,
+  "instagram_url": null
+ },
+ {
+  "n": 24,
+  "pillar": "Queue",
+  "hook": "Seat pe bag, saamne buzurg khade",
+  "habit": "Seat log ke liye, bag ke liye nahi",
+  "status": "todo",
+  "buffer_post_id": null,
+  "instagram_url": null
+ },
+ {
+  "n": 25,
+  "pillar": "Road",
+  "hook": "Wrong side se 30 second bachaye",
+  "habit": "Wrong side = sabse common accident cause",
+  "status": "todo",
+  "buffer_post_id": null,
+  "instagram_url": null
+ },
+ {
+  "n": 26,
+  "pillar": "Swachh",
+  "hook": "Mawlynnong: Asia ka sabse saaf gaon kaise bana?",
+  "habit": "Community ownership",
+  "status": "todo",
+  "buffer_post_id": null,
+  "instagram_url": null
+ },
+ {
+  "n": 27,
+  "pillar": "Online",
+  "hook": "Videsh ki video pe India ki burai",
+  "habit": "Desh ki galti sudharo, uska mazaak nahi",
+  "status": "todo",
+  "buffer_post_id": null,
+  "instagram_url": null
+ },
+ {
+  "n": 28,
+  "pillar": "Abroad",
+  "hook": "Hotel room chhodte waqt kaisa dikhta hai?",
+  "habit": "Mehmaan bano, toofan nahi",
+  "status": "todo",
+  "buffer_post_id": null,
+  "instagram_url": null
+ },
+ {
+  "n": 29,
+  "pillar": "Desh Badlo",
+  "hook": "Indore ne kaise kar dikhaya?",
+  "habit": "System + aadat = saaf shehar",
+  "status": "todo",
+  "buffer_post_id": null,
+  "instagram_url": null
+ },
+ {
+  "n": 30,
+  "pillar": "Tameez",
+  "hook": "Sorry bolna weakness hai?",
+  "habit": "Sorry, please, thank you = strength",
+  "status": "todo",
+  "buffer_post_id": null,
+  "instagram_url": null
+ }
 ]
