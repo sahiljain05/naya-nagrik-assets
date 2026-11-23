@@ -1,0 +1,12 @@
+{"out": "posts/nn04", "slug": "nn04", "series": "Naya Nagrik #04", "slides": [
+{"panel": "p01.png", "title": "Tum Paris mein ho. Tum India ho.", "body": "Eiffel Tower ki line, 2 ghante lambi. Bunty ka dimaag: \"Jugaad lagate hain.\""},
+{"type": "text", "kind": "plain", "title": "Pehla foreign trip.", "body": "Bunty aur Pinky, Paris mein. Ticket ki line kabhi khatam hi nahi ho rahi.\nBunty: \"Aage koi dhyaan nahi dega yaar.\""},
+{"panel": "p03.png", "title": "Aur Bunty aage ghus gaya.", "body": "Ek buzurg couple ke theek saamne. Phone mein dekhne ka natak.", "mistake": true},
+{"panel": "p04.png", "title": "Guard ne seedha peeche bheja.", "body": "Aur line mein khade Indian students ne mooh chhupa liya.", "mistake": true},
+{"panel": "p05.png", "title": "\"Yahan tumhara naam koi nahi jaanta.\"", "body": "Pinky: \"Bas ek cheez jaante hain: tum Indian ho. Aaj unka 'India' tum the.\""},
+{"type": "text", "kind": "fact", "title": "1.8 crore Indians videsh mein rehte hain.", "body": "Duniya ka sabse bada diaspora. Aur har saal crore-on log ghoomne jaate hain. Har ek, desh ka chalta-phirta review.", "small": "Source: UN DESA, International Migrant Stock 2020"},
+{"type": "text", "kind": "mirror", "title": "Mumbai ka bus stop dekho.", "body": "BEST bus ki line mein log khud se line banate hain, koi guard nahi. Line India mein bhi chalti hai. Jo Mumbai mein karte ho, wahi Paris mein karo."},
+{"type": "text", "kind": "rule", "title": "Passport pe India likha hai.", "body": "Har harkat desh ka review hai.\nGhar pe bhi, bahar bhi.\nLine mein lago, peeche se."},
+{"panel": "p09.png", "title": "Wapas line ke end mein.", "body": "Aur jab wahi buzurg couple aaye, Bunty ne bola: \"After you.\"", "rule": true},
+{"type": "cta", "lines": ["Send karo.", "Us dost ko bhejo jo trip pe bhi jugaad lagata hai.", "Save karo taaki yaad rahe. Follow @naya.nagrik"], "faces": ["assets/face_bunty.png", "assets/face_pinky.png"]}
+]}
