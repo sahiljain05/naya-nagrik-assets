@@ -43,9 +43,10 @@
     "pillar": "Road",
     "hook": "Ambulance peeche hai. Tum kya karoge?",
     "habit": "Left jao, ruk jao, rasta do",
-    "status": "todo",
-    "buffer_post_id": null,
-    "instagram_url": null
+    "status": "scheduled",
+    "buffer_post_id": "6b057089bb555c7271002cd9",
+    "instagram_url": null,
+    "scheduled_for": "2026-11-25T19:00:00+05:30"
   },
   {
     "n": 6,
