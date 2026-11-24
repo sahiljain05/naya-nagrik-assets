@@ -1,0 +1,72 @@
+{
+"out": "posts/nn05",
+"slug": "nn05",
+"series": "Naya Nagrik #05",
+"slides": [
+{
+"panel": "p01.png",
+"title": "Ambulance peeche hai. Tum kya karoge?",
+"body": "Shaam ka traffic. Bunty late hai, aur peeche se siren baj raha hai."
+},
+{
+"type": "text",
+"kind": "plain",
+"title": "Movie 7 baje ki hai.",
+"body": "Bunty scooty pe, Pinky peeche.\nPeeche ambulance ka siren.\nBunty: \"Sab hatenge toh main bhi hatunga.\""
+},
+{
+"panel": "p03.png",
+"title": "Bunty beech lane mein hi raha.",
+"body": "Left mein jagah thi. Par \"chalta hai\". Ambulance ruk gayi, theek uske peeche.",
+"mistake": true
+},
+{
+"panel": "p04.png",
+"title": "Ambulance ke andar...",
+"body": "Ek buzurg patient. Paramedic baar baar ghadi dekh rahi hai. Har second bhaari.",
+"mistake": true
+},
+{
+"panel": "p05.png",
+"title": "Pinky ne dheere se bola:",
+"body": "\"Socho andar tumhare Dadaji hote.\"\nBunty ka dil ek second ke liye ruk gaya."
+},
+{
+"type": "text",
+"kind": "fact",
+"title": "Rasta na diya? 10,000 ka fine.",
+"body": "Emergency vehicle ko rasta na dena offence hai. Fine, ya 6 mahine tak jail, ya dono.",
+"small": "Source: Motor Vehicles (Amendment) Act 2019, Section 194E"
+},
+{
+"type": "text",
+"kind": "mirror",
+"title": "Green corridor yaad hai?",
+"body": "Organ le jaane ke liye Chennai, Bengaluru, Hyderabad mein poori sadak khaali hoti hai. Log khud rasta dete hain."
+},
+{
+"type": "text",
+"kind": "rule",
+"title": "Siren suna? 3 kaam.",
+"body": "Left jao.\nRuk jao.\nRasta do.\nAur ambulance ke peeche mat bhaago."
+},
+{
+"panel": "p09.png",
+"title": "Ab siren sunte hi, Bunty sabse pehle left.",
+"body": "Aur peeche walon ko bhi ishaara: \"Rasta do!\"",
+"rule": true
+},
+{
+"type": "cta",
+"lines": [
+"Send karo.",
+"Us dost ko bhejo jo siren sunke bhi lane nahi chhodta.",
+"Save karo taaki yaad rahe. Follow @naya.nagrik"
+],
+"faces": [
+"assets/face_bunty.png",
+"assets/face_pinky.png"
+]
+}
+]
+}
