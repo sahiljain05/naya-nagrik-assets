@@ -272,5 +272,13 @@
     "status": "todo",
     "buffer_post_id": null,
     "instagram_url": null
+  },
+  {
+    "id": "R1",
+    "pillar": "rights",
+    "hook": "Bill mein service charge? Mana kar sakte ho.",
+    "status": "scheduled",
+    "buffer_post_id": "6b06c19381683ea08040c5eb",
+    "scheduled_for": "2026-11-26T19:00:00+05:30"
   }
 ]
