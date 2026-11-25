@@ -134,7 +134,7 @@ def cta_slide(lines, faces, series, idx, total):
     return chrome(img, series, idx, total)
 
 
-def text_slide(title, body, kind, series, idx, total, small=""):
+def text_slide(title, body, kind, series, idx, total, small="", label=None):
     bg = {"rule": GREEN, "fact": NAVY, "mirror": SAFFRON, "plain": OFFWHITE}[kind]
     fg = OFFWHITE if kind in ("rule", "fact") else NAVY
     img = Image.new("RGB", (W, H), bg)
@@ -142,7 +142,7 @@ def text_slide(title, body, kind, series, idx, total, small=""):
     # decorative corner circles
     d.ellipse((W - 260, -140, W + 140, 260), fill=tuple(min(255, c + 25) for c in bg))
     d.ellipse((-160, H - 300, 220, H + 80), fill=tuple(max(0, c - 20) for c in bg))
-    label = {"rule": "RULE OF THUMB", "fact": "KYUN ZAROORI HAI?", "mirror": "BHARAT MEIN PEHLE SE", "plain": ""}[kind]
+    label = {"rule": "RULE OF THUMB", "fact": "KYUN ZAROORI HAI?", "mirror": "BHARAT MEIN PEHLE SE", "plain": ""}[kind] if label is None else label
     ft, fb, fl = font(F_HOOK, 76), font(F_BODY, 44), font(F_HOOK, 30)
     tl = wrap(d, title, ft, W - 180) if title else []
     bl = wrap(d, body, fb, W - 180) if body else []
@@ -169,7 +169,7 @@ if __name__ == "__main__":
     total = len(spec["slides"])
     for i, s in enumerate(spec["slides"], 1):
         if s.get("type") == "text":
-            img = text_slide(s.get("title",""), s.get("body",""), s.get("kind","plain"), spec["series"], i, total, s.get("small",""))
+            img = text_slide(s.get("title",""), s.get("body",""), s.get("kind","plain"), spec["series"], i, total, s.get("small",""), s.get("label"))
         elif s.get("type") == "cta":
             img = cta_slide(s["lines"], s["faces"], spec["series"], i, total)
         else:

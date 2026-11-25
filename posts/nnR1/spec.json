@@ -1,0 +1,75 @@
+{
+"out": "posts/nnR1",
+"slug": "nnR1",
+"series": "Naya Nagrik · Rights #1",
+"slides": [
+{
+"panel": "posts/nnR1/raw/p01.png",
+"title": "Bill mein service charge? Mana kar sakte ho.",
+"body": "",
+"y": 850
+},
+{
+"panel": "posts/nnR1/raw/p02.png",
+"title": "Khaana mast tha.",
+"body": "Bill aaya. Neeche chhoti si line: \"Service charge 10%\". Bunty ko laga ye toh dena hi padta hai."
+},
+{
+"panel": "posts/nnR1/raw/p03.png",
+"title": "Bunty card nikaal raha tha.",
+"body": "\"Mana karunga toh waiter kya sochega? Sab dekhenge.\" Pinky ne haath rok liya.",
+"mistake": true
+},
+{
+"panel": "posts/nnR1/raw/p04.png",
+"title": "Pinky: \"Ye charge optional hai.\"",
+"body": "\"Restaurant ise bill mein khud se nahi jod sakta. Hatwana tumhara haq hai.\""
+},
+{
+"type": "text",
+"kind": "fact",
+"label": "KAANOON KYA KEHTA HAI",
+"title": "Service charge voluntary hai.",
+"body": "CCPA guidelines (4 July 2022):\nrestaurant ya hotel ise default add\nya force nahi kar sakte.\nDelhi High Court ne 28 March 2025\nko ise uphold kiya.",
+"small": "Source: CCPA Guidelines, 4 July 2022; Delhi High Court, 28 March 2025.\nYe general jaankari hai, legal advice nahi."
+},
+{
+"type": "text",
+"kind": "plain",
+"label": "TOH KYA KARO?",
+"title": "Bill mein dikhe toh:",
+"body": "1. Politely bolo: \"Service charge hata dijiye.\"\n2. Na maane? National Consumer Helpline 1915 pe complaint karo."
+},
+{
+"type": "text",
+"kind": "mirror",
+"label": "CHHOTA SA TIP",
+"title": "Bill neeche tak padho.",
+"body": "Service achhi lagi?\nTip do, apni marzi se, apni amount.\nBas bill mein zabardasti nahi."
+},
+{
+"type": "text",
+"kind": "rule",
+"title": "Service charge = marzi, majboori nahi.",
+"body": "Padho.\nPoochho.\nNa maane toh 1915."
+},
+{
+"panel": "posts/nnR1/raw/p09.png",
+"title": "Agli baar Bunty ne khud bola:",
+"body": "\"Service charge hata dijiye.\" Hata diya. Aur waiter bhaiya ko tip, apni marzi se.",
+"rule": true
+},
+{
+"type": "cta",
+"lines": [
+"Save karo.",
+"Us dost ko bhejo jo bill bina padhe pay kar deta hai.",
+"Rights jo aapko pata nahi. Follow @naya.nagrik"
+],
+"faces": [
+"assets/face_bunty.png",
+"assets/face_pinky.png"
+]
+}
+]
+}
