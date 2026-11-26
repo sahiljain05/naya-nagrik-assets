@@ -53,9 +53,10 @@
     "pillar": "Swachh",
     "hook": "Paan ki pichkari ka bill kaun bharta hai?",
     "habit": "Thookna band, cleaning ka paisa tumhara tax",
-    "status": "todo",
-    "buffer_post_id": null,
-    "instagram_url": null
+    "status": "scheduled",
+    "buffer_post_id": "6b081327ed9dce3bda0250d8",
+    "instagram_url": null,
+    "scheduled_for": "2026-11-27T19:00:00+05:30"
   },
   {
     "n": 7,
