@@ -1,0 +1,73 @@
+{
+ "out": "posts/nn06",
+ "slug": "nn06",
+ "series": "Naya Nagrik #06",
+ "slides": [
+  {
+   "panel": "/tmp/claude-0/-home-claude-naya-nagrik-assets/31a1907c-dc01-59a0-b33b-dab1fafae371/scratchpad/raw06/p01.png",
+   "title": "Paan ki pichkari ka bill kaun bharta hai?",
+   "body": "",
+   "y": 90
+  },
+  {
+   "type": "text",
+   "kind": "plain",
+   "title": "Shaadi se laut rahe the.",
+   "body": "Bunty ne meetha paan khaya.\nStation ki seedhiyan, khaali corner.\nBunty: \"Ek pichkari se kya hota hai?\""
+  },
+  {
+   "panel": "/tmp/claude-0/-home-claude-naya-nagrik-assets/31a1907c-dc01-59a0-b33b-dab1fafae371/scratchpad/raw06/p03.png",
+   "title": "Pichkari. Corner laal.",
+   "body": "Bunty aage badh gaya. \"Chalta hai, sab karte hain.\"",
+   "mistake": true
+  },
+  {
+   "panel": "/tmp/claude-0/-home-claude-naya-nagrik-assets/31a1907c-dc01-59a0-b33b-dab1fafae371/scratchpad/raw06/p04.png",
+   "title": "Agli subah...",
+   "body": "Safai karamchari ghanton ragadte hain. Daag phir bhi poora nahi jaata.",
+   "mistake": true
+  },
+  {
+   "panel": "/tmp/claude-0/-home-claude-naya-nagrik-assets/31a1907c-dc01-59a0-b33b-dab1fafae371/scratchpad/raw06/p05.png",
+   "title": "Pinky: \"Bill aayega. Tumhare naam pe.\"",
+   "body": "Brush, chemical, paani, majdoori. Sab public paisa. Yaani tumhara tax."
+  },
+  {
+   "type": "text",
+   "kind": "fact",
+   "title": "Ek daag, do nuksaan.",
+   "body": "Deewar, pillar, seedhi kharab hote hain. Aur thook se infection failte hain. Isliye kai shehron mein public mein thookna fine wala offence hai.",
+   "small": "Fine ki rakam shehar ke municipal niyam pe depend karti hai."
+  },
+  {
+   "type": "text",
+   "kind": "mirror",
+   "title": "Indore ne kar dikhaya.",
+   "body": "Swachh Survekshan mein saal dar saal No.1. Wahan log khud ek doosre ko tokte hain. Safai aadat ban gayi."
+  },
+  {
+   "type": "text",
+   "kind": "rule",
+   "title": "Pichkari rule:",
+   "body": "Public mein thook nahi.\nDustbin ya washbasin tak ruko.\nDeewar kisi ka canvas nahi."
+  },
+  {
+   "panel": "/tmp/claude-0/-home-claude-naya-nagrik-assets/31a1907c-dc01-59a0-b33b-dab1fafae371/scratchpad/raw06/p09.png",
+   "title": "Ab Bunty khud tokta hai:",
+   "body": "\"Bhai, deewar ne kya bigaada? Dustbin udhar hai.\"",
+   "rule": true
+  },
+  {
+   "type": "cta",
+   "lines": [
+    "Send karo.",
+    "Us dost ko bhejo jo har corner ko pichkari ka target samajhta hai.",
+    "Save karo taaki yaad rahe. Follow @naya.nagrik"
+   ],
+   "faces": [
+    "assets/face_bunty.png",
+    "assets/face_pinky.png"
+   ]
+  }
+ ]
+}
