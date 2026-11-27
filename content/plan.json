@@ -281,5 +281,13 @@
     "status": "scheduled",
     "buffer_post_id": "6b06c19381683ea08040c5eb",
     "scheduled_for": "2026-11-26T19:00:00+05:30"
+  },
+  {
+    "id": "R2",
+    "pillar": "rights",
+    "hook": "Police ne bola 'ye hamara area nahi'?",
+    "status": "scheduled",
+    "buffer_post_id": "6b0964f8658222306c07dd4d",
+    "scheduled_for": "2026-11-28T19:00:00+05:30"
   }
 ]
