@@ -1,0 +1,21 @@
+{
+"out": "posts/nnR2",
+"slug": "nnR2",
+"series": "Naya Nagrik · Rights #2",
+"slides": [
+{"panel": "posts/nnR2/raw/p01.png", "title": "Police ne bola 'ye hamara area nahi'?", "body": "", "y": 850},
+{"panel": "posts/nnR2/raw/p02.png", "title": "Metro mein Bunty ka phone chori.", "body": "Ghar aakar wo apne area ke thane pahuncha, FIR likhwane."},
+{"panel": "posts/nnR2/raw/p03.png", "title": "Jawab mila: \"Ye hamara area nahi.\"", "body": "\"Jahan chori hui, wahan jao.\" Bunty thak ke wapas mudne laga.", "mistake": true},
+{"panel": "posts/nnR2/raw/p04.png", "title": "Pinky: \"Ruko. Zero FIR ka haq hai.\"", "body": "\"FIR kisi bhi thane mein likh sakte hain. Baad mein sahi thane transfer hoti hai.\""},
+{"type": "text", "kind": "fact", "label": "KAANOON KYA KEHTA HAI", "title": "FIR kisi bhi thane mein.",
+ "body": "BNSS 2023, Section 173:\ncognizable offence ki FIR\nkisi bhi police station mein\nregister ho sakti hai, crime\nkahin bhi hua ho (Zero FIR).\nPhir ye transfer hoti hai.",
+ "small": "Source: Bharatiya Nagarik Suraksha Sanhita 2023, Section 173.\nYe general jaankari hai, legal advice nahi."},
+{"type": "text", "kind": "plain", "label": "TOH KYA KARO?", "title": "Thana mana kare toh:",
+ "body": "1. Politely bolo: \"Zero FIR likhiye, BNSS Section 173.\"\n2. FIR ki free copy maango.\n3. Phir bhi mana? Superintendent of Police ko written complaint do."},
+{"type": "text", "kind": "mirror", "label": "CHHOTA SA TIP", "title": "e-FIR ka option bhi hai.",
+ "body": "Kya hua, kab, kahan:\nsab pehle se likh ke le jao.\nFIR ki copy sambhal ke rakho."},
+{"type": "text", "kind": "rule", "title": "Crime kahin bhi ho, FIR yahin ho sakti hai.", "body": "Zero FIR.\nFree copy.\nMana kare toh SP ko likho."},
+{"panel": "posts/nnR2/raw/p09.png", "title": "Bunty wapas gaya, shaanti se bola:", "body": "\"Zero FIR likhiye, Section 173.\" FIR likhi gayi. Copy haath mein.", "rule": true},
+{"type": "cta", "lines": ["Save karo.", "Us dost ko bhejo jo 'ye hamara area nahi' sun ke laut aata hai.", "Rights jo aapko pata nahi. Follow @naya.nagrik"], "faces": ["assets/face_bunty.png", "assets/face_pinky.png"]}
+]
+}
