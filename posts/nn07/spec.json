@@ -1,0 +1,22 @@
+{
+ "out": "posts/nn07",
+ "slug": "nn07",
+ "series": "Naya Nagrik #07",
+ "slides": [
+  {"panel": "/tmp/claude-0/-home-claude-naya-nagrik-assets/32a2deb3-25c1-5250-be64-edaa234631c6/scratchpad/raw07/p01.png", "title": "Taj pe naam likh ke kya mila?", "body": "", "y": 90},
+  {"type": "text", "kind": "plain", "title": "College trip, Agra.",
+   "body": "Bunty, Pinky aur poori gang.\nSadiyon purani marble ki deewar.\nBunty: \"Yaadgaar toh banana padega na.\""},
+  {"panel": "/tmp/claude-0/-home-claude-naya-nagrik-assets/32a2deb3-25c1-5250-be64-edaa234631c6/scratchpad/raw07/p03.png", "title": "Chaabi nikali. Kharoch diya.", "body": "\"Sab likhte hain. Ek naam se kya hoga?\"", "mistake": true},
+  {"panel": "/tmp/claude-0/-home-claude-naya-nagrik-assets/32a2deb3-25c1-5250-be64-edaa234631c6/scratchpad/raw07/p04.png", "title": "Ek naam. Phir sau. Phir hazaar.", "body": "Deewar pe naamon ka jungle. Saaf karne mein mehnat aur public paisa lagta hai.", "mistake": true},
+  {"panel": "/tmp/claude-0/-home-claude-naya-nagrik-assets/32a2deb3-25c1-5250-be64-edaa234631c6/scratchpad/raw07/p05.png", "title": "Pinky: \"Kya mila, Bunty?\"", "body": "\"Sadiyon purani deewar pe 5 second ka nishaan. Aur kisi ko yaad bhi nahi Bunty kaun tha.\""},
+  {"type": "text", "kind": "fact", "title": "Ye sirf galat nahi, offence hai.",
+   "body": "Protected monument ko kharochna, todna ya deface karna kaanoon ke under saza wala offence hai.",
+   "small": "Source: Ancient Monuments and Archaeological Sites\nand Remains Act, 1958, Section 30."},
+  {"type": "text", "kind": "mirror", "title": "Asli Indian tourist kaun?",
+   "body": "Taj pe roz hazaaron log aate hain.\nZyada-tar bas photo lete hain\naur kuch nahi chhodte.\nWahi asli yaadgaar hai."},
+  {"type": "text", "kind": "rule", "title": "Monument rule:",
+   "body": "Yaad lo, nishaan nahi.\nPhoto lo, chaabi nahi.\nDost likhe toh tok do."},
+  {"panel": "/tmp/claude-0/-home-claude-naya-nagrik-assets/32a2deb3-25c1-5250-be64-edaa234631c6/scratchpad/raw07/p09.png", "title": "Ab Bunty ka naam kahan hai?", "body": "Photo mein. Deewar saaf. \"Yaad camera mein, monument sabke liye.\"", "rule": true},
+  {"type": "cta", "lines": ["Send karo.", "Us dost ko bhejo jo har monument pe apna naam chhod aata hai.", "Save karo taaki yaad rahe. Follow @naya.nagrik"], "faces": ["assets/face_bunty.png", "assets/face_pinky.png"]}
+ ]
+}
